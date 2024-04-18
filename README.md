@@ -1,1 +1,1 @@
-Echo Boards: sound-responsive keyboard leveraging Whisper API
+Echo Boards: sound-responsive keyboard leveraging Whisper API.
